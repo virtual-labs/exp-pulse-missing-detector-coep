@@ -1,6 +1,61 @@
 {
   "version": 2.0,
   "questions": [
-    
+    {
+      "question": " ______ is used to determine the physical performance characteristics of a cardiac patient",
+      "answers": {
+        "a": "Data compression techniques",
+        "b": "Stress test electrocardiography",
+        "c": "Stress amplitude ECG",
+        "d": "QRS detection techniques"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },{
+      "question": "Which of the following are devices used for testing physical fitness?",
+      "answers": {
+        "a": "Treadmill and sphygmomanometer",
+        "b": "Ergometer and sphygmomanometer",
+        "c": "Treadmill and Ergometer",
+        "d": "Sphygmomanometer and Event recorders"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },{
+      "question": "Which of the following is the type of exercise protocols used in treadmill tests?",
+      "answers": {
+        "a": "The Balke-Bruce Protocol",
+        "b": "The Bruce-Ware Protocol",
+        "c": "The Balke-Ware Protocol",
+        "d": "The Balke Protocol"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },{
+      "question": "The signal reaching which of the following components is the one lying in the window of pulse height analyser?",
+      "answers": {
+        "a": "Pre-amplifier",
+        "b": "Linear amplifier",
+        "c": "Discriminator",
+        "d": "Counter"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },{
+      "question": "Which of the following is used when the number of channels is ten or less?",
+      "answers": {
+        "a": "Parallel array of discriminators",
+        "b": "Two discriminators in parallel",
+        "c": "Series array of discriminators",
+        "d": "Two discriminators in series"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
   ]
 }
