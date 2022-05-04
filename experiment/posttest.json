@@ -1,6 +1,61 @@
 {
   "version": 2.0,
   "questions": [
-    
+    {
+      "question": "Which of the following components cancels all the pulses which trigger both the discriminators?",
+      "answers": {
+        "a": "Pre-amplifier",
+        "b": "Linear amplifier",
+        "c": "Anti-coincidence circuit",
+        "d": "Discriminator"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },{
+      "question": "The pulses having amplitudes between the two triggering levels are given by which of the following components?",
+      "answers": {
+        "a": "Pre-amplifier",
+        "b": "Linear amplifier",
+        "c": "Anti-coincidence circuit",
+        "d": "Discriminator"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },{
+      "question": "______ is a blood pressure measuring instrument",
+      "answers": {
+        "a": "Sphygmomanometer",
+        "b": "Ergometer",
+        "c": "Treadmill",
+        "d": "Holtemanometer"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },{
+      "question": "_________ is a signal of low amplitude and low frequency content.",
+      "answers": {
+        "a": "QRS complex",
+        "b": "R-R interval",
+        "c": "ST segment",
+        "d": "T-P interval"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },{
+      "question": "________compare various algorithms employed for processing stress ECG signals",
+      "answers": {
+        "a": "Friesen",
+        "b": "Alfonso",
+        "c": "Jen and Hwang",
+        "d": "Clynes"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
   ]
 }
